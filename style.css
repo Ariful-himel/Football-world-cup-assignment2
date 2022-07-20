@@ -148,6 +148,10 @@ main{
           
          
 }
+.blog-img img{
+          width: 312px;
+          height: 175px;
+}
 .details{
           margin-left: 20px;
 }
@@ -155,6 +159,9 @@ main{
 .btn button{
           border: 2px solid;
           margin-top: 20px;
+          border: 1px solid #161616;
+          border-radius: 5px;
+          padding: 4px 9px;
 }
 
 .btn a{
